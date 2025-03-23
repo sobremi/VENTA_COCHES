@@ -1,0 +1,779 @@
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [id_cliente] => 
+    [nombre] => esther
+    [apellido] => esther
+    [dni] => 001
+    [telefono] => 1234567890
+    [email] => esther@esther.com
+    [direccion] => bata
+    [accion] => insertar
+)
+
+Array
+(
+    [imagen] => Array
+        (
+            [name] => client-1.jpg
+            [full_path] => client-1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php2909.tmp
+            [error] => 0
+            [size] => 25149
+        )
+
+)
+
+Array
+(
+    [id_cliente] => 
+    [nombre] => esther
+    [apellido] => esther
+    [dni] => 002
+    [telefono] => 1234567890
+    [email] => esther@esther.com
+    [direccion] => bata
+    [accion] => insertar
+)
+
+Array
+(
+    [imagen] => Array
+        (
+            [name] => client-1.jpg
+            [full_path] => client-1.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php61CD.tmp
+            [error] => 0
+            [size] => 25149
+        )
+
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => obtener
+    [id_cliente] => 1
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => e
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => e
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => al
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => alo
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => alon
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => al
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => a
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => e
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => es
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => buscar
+    [termino] => est
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => obtener
+    [id_cliente] => 1
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => obtener
+    [id_cliente] => 3
+)
+
+Array
+(
+)
+
+Array
+(
+    [id_cliente] => 3
+    [nombre] => estherlina
+    [apellido] => esther
+    [dni] => 002
+    [telefono] => 1234567890
+    [email] => esther@esther.com
+    [direccion] => bata
+    [accion] => actualizar
+)
+
+Array
+(
+    [imagen] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
+Array
+(
+)
+
+Array
+(
+    [accion] => listar
+)
+
+Array
+(
+)
+
