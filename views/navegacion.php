@@ -1,3 +1,13 @@
+<?php
+
+session_start();
+if (isset($_SESSION['usuario'])) {
+    echo json_encode(['autenticado' => true]);
+} else {
+    echo json_encode(['autenticado' => false]);
+}
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -93,6 +103,7 @@
     </style>
 </head>
 <body>
+<a href="./salir.php">Cerrar Sesión</a>
     <button class="btn btn-primary toggle-btn" type="button">
         <i class="fas fa-bars"></i>
     </button>
@@ -103,7 +114,7 @@
         </div>
         <ul class="sidebar-menu">
             <li>
-                <a class="nav-link" href="dashboard.php">
+                <a class="nav-link" href="/views/navegacion.php">
                     <i class="fas fa-tachometer-alt"></i>Dashboard
                 </a>
             </li>
